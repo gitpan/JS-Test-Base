@@ -18,4 +18,4 @@ requires:
   JS: 0.17
   JS::Test::Simple: 0.28
   perl: 5.8.0
-version: 0.15
+version: 0.16

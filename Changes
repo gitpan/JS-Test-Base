@@ -1,4 +1,11 @@
 ---
+version: 0.16
+date:    Thu Aug 28 00:43:35 PDT 2008
+changes:
+- Add section_delim config option.
+- Added 'eval' filter.
+
+---
 version: 0.15
 date:    Thu Aug 28 00:21:25 PDT 2008
 changes:
