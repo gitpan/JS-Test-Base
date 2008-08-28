@@ -15,7 +15,7 @@ no_index:
     - inc
     - t
 requires:
-  JS: 0.15
-  JS::Test::Simple: 0.27
+  JS: 0.17
+  JS::Test::Simple: 0.28
   perl: 5.8.0
-version: 0.14
+version: 0.15
